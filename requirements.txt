@@ -1,0 +1,5 @@
+transformers
+scikit-learn
+pillow
+torch
+wget
